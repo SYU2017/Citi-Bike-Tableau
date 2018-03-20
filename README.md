@@ -4,5 +4,7 @@ As the new lead analyst for the New York Citi Bike Program, you are now responsi
 
 https://public.tableau.com/profile/shuzhen.yu#!/vizhome/citibike_1/Dashboard1?publish=yes
 
+![picture](citi-bike-station-bikes.jpg)
+
 
 
